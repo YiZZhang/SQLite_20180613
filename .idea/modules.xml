@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SQLite_20180606.iml" filepath="$PROJECT_DIR$/SQLite_20180606.iml" />
+      <module fileurl="file://E:\Test0531-master\Test0531.iml" filepath="E:\Test0531-master\Test0531.iml" />
+      <module fileurl="file://E:\SQLite_20180606\Test0531-master.iml" filepath="E:\SQLite_20180606\Test0531-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Test0531-master\app\app.iml" filepath="E:\Test0531-master\app\app.iml" />
+      <module fileurl="file://E:\SQLite_20180606\app\app.iml" filepath="E:\SQLite_20180606\app\app.iml" />
+    </modules>
+  </component>
+</project>
